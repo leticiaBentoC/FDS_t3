@@ -40,6 +40,8 @@ public class App {
                 System.out.println("---------------\n\n");
                 System.out.println("Small change");
             }
+          
+          System.out.println("\nLeticia Bento do Carmo\n\n");
         }
     }
 }
